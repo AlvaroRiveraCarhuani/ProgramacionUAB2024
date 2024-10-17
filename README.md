@@ -9,5 +9,3 @@ Alumos de la materia:
 
 Alvaro Regulo Rivera Carhuani
 
-
-sdfasdf
