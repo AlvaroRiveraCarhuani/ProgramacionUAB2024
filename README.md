@@ -10,3 +10,5 @@ Alumos de la materia:
 Alvaro Regulo Rivera Carhuani
 
 Commit 1
+
+Agregando cosas
