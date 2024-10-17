@@ -9,10 +9,4 @@ Alumos de la materia:
 
 Alvaro Regulo Rivera Carhuani
 
-Modificado antes
-
-Uno dos tres
-
-Modificado despues
-
-cuatro cinco seis
+Agregando cosas 
