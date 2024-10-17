@@ -9,11 +9,4 @@ Alumos de la materia:
 
 Alvaro Regulo Rivera Carhuani
 
-Agregando cosas 
-
-
-Agregando mas cosas para unir despues
-
-Conservar los cambios de la Rama 2 en Main
-
-aaaaaaaaaaaaaaaaaaaaaa
+Commit 1
